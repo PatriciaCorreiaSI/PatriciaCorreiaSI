@@ -33,7 +33,9 @@ Analista Financeira e estudante de Sistemas de Informação. Utilizo a tecnologi
 
 *https://github.com/PatriciaCorreiaSI/Bootcamp_Dio_Totvs_Python_ETL*
 
-Projeto de ELT para extração e transformação de dados de clientes bancários com interação de agentes de IA. (Construído com Python/Google Colab/Google AI Studio).
+Projeto de ETL para extração e transformação de dados de clientes bancários com uso de agentes de IA (Construído com Python/Google Colab/LLM-Gemini-2.5-flash)
+
+
 ---
 
 📫 *Como me encontrar:* 

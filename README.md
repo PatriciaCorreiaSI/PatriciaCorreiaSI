@@ -1,4 +1,4 @@
-#  Olá, eu sou a Patricia Correia! 👋
+#  Olá, eu sou Patricia Correia! 👋
 
 Analista Financeira e estudante de Sistemas de Informação. Utilizo a tecnologia e a inteligência de dados para otimizar processos, automatizar fluxos de trabalho e apoiar decisões estratégicas. Atualmente, concilio minha experiência analítica com o desenvolvimento de aplicações web modernas e testes de QA.
 <div>

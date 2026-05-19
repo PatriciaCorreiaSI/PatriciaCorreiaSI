@@ -23,8 +23,17 @@ Analista Financeira e estudante de Sistemas de Informação. Utilizo a tecnologi
 ---
 
 ### 🚀 Projetos em Destaque
-* * Controle_Ponto_do_Dia (https://github.com/PatriciaCorreiaSI/Controle_Ponto_do_Dia) * Aplicação para controle e cálculo de saldo de horas, histórico e integração com banco de dados (Construído com Python/SQLite/FastAPI/React).
+* Controle_Ponto_do_Dia
 
+ *https://github.com/PatriciaCorreiaSI/Controle_Ponto_do_Dia*
+
+  Aplicação para controle e cálculo de saldo de horas, histórico e integração com banco de dados (Construído com Python/SQLite/FastAPI/React).
+
+* Bootcamp_Dio_Totvs_Python_ETL
+
+*https://github.com/PatriciaCorreiaSI/Bootcamp_Dio_Totvs_Python_ETL*
+
+Projeto de ELT para extração e transformação de dados de clientes bancários com interação de agentes de IA. (Construído com Python/Google Colab/Google AI Studio).
 ---
 
 📫 *Como me encontrar:* 

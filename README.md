@@ -13,7 +13,7 @@ Analista Financeira e estudante de Sistemas de Informação. Utilizo a tecnologi
 
 ---
 
-### 🛠️ Minhas Habilidades & Tecnologias
+## 🛠️ Minhas Habilidades & Tecnologias
 
 - *Inteligência de Dados & BI:* SQL, Banco de Dados, Power BI (Dashboards e Relatórios Estratégicos).
 - *Desenvolvimento Web / Backend:* Python, FastAPI.
@@ -22,18 +22,17 @@ Analista Financeira e estudante de Sistemas de Informação. Utilizo a tecnologi
 
 ---
 
-### 🚀 Projetos em Destaque
-* Controle_Ponto_do_Dia
+## 🚀 Projetos em Destaque
 
- *https://github.com/PatriciaCorreiaSI/Controle_Ponto_do_Dia*
+### [**Controle_Ponto_do_Dia**](https://github.com/PatriciaCorreiaSI/Controle_Ponto_do_Dia)
+>[!NOTE] 
+>
+> Aplicação para controle e cálculo de saldo de horas, histórico e integração com banco de dados (Construído com Python/SQLite/FastAPI/React).
 
-  Aplicação para controle e cálculo de saldo de horas, histórico e integração com banco de dados (Construído com Python/SQLite/FastAPI/React).
-
-* Bootcamp_Dio_Totvs_Python_ETL
-
-*https://github.com/PatriciaCorreiaSI/Bootcamp_Dio_Totvs_Python_ETL*
-
-Projeto de ETL para extração e transformação de dados de clientes bancários com uso de agentes de IA (Construído com Python/Google Colab/LLM-Gemini-2.5-flash)
+### [**Bootcamp_Dio_Totvs_Python_ETL**](https://github.com/PatriciaCorreiaSI/Bootcamp_Dio_Totvs_Python_ETL)
+>[!NOTE] 
+>
+> Projeto de ETL para extração e transformação de dados de clientes bancários com uso de agentes de IA (Construído com Python/Google Colab/LLM-Gemini-2.5-flash)
 
 
 ---

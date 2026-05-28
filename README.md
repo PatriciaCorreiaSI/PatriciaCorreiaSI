@@ -34,12 +34,9 @@ Analista Financeira e estudante de Sistemas de Informação. Utilizo a tecnologi
 >
 > Projeto de ETL para extração e transformação de dados de clientes bancários com uso de agentes de IA (Construído com Python/Google Colab/LLM-Gemini-2.5-flash)
 
-
 ---
-
-📫 *Como me encontrar:* 
 <div id="badges">
   <a href = "https://br.linkedin.com/in/eupatriciamoraisc">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Como me encontrar"/>
   </a>
 </div>

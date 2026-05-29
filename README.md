@@ -169,7 +169,7 @@ Sou **Analista Financeira** e **Graduanda em Sistemas de Informação**. Utilizo
 
 <!-- Escreva seu e-mail manualmente no badge abaixo (substitua SEU-EMAIL) -->
 <p>
-  <a href="https://br.linkedin.com/in/eupatriciamoraisc">
+  <a href="https://br.linkedin.com/in/eupatriciacorreia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU-EMAIL">

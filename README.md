@@ -6,13 +6,13 @@
 
 <!-- ===================== HEADER / BANNER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F9DFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Patricia+Correia+%F0%9F%91%8B;Financial+Analyst+%26+IS+Student;Data%2C+Automation+%26+Web+Development;Ol%C3%A1%2C+eu+sou+Patricia+Correia+%F0%9F%91%8B;Analista+Financeira+%26+Estudante+de+SI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F9DFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Patricia+Correia+%F0%9F%91%8B;Financial+Analyst+%26+IS+Student;Data%2C+Automation+%26+Web+Development;Ol%C3%A1%2C+eu+sou+a+Patricia+Correia+%F0%9F%91%8B;Analista+Financeira+%26+Estudante+de+SI" alt="Typing SVG" />
 
   <p>
     <img src="https://img.shields.io/badge/Financial%20Analyst-1a1a2e?style=for-the-badge&logo=bookstack&logoColor=4F9DFF" />
     <img src="https://img.shields.io/badge/Data%20%26%20BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
     <img src="https://img.shields.io/badge/Web%20Dev-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/QA%20%2F%20Testing-1a1a2e?style=for-the-badge&logo=testinglibrary&logoColor=e33332" />
+     <img src="https://img.shields.io/badge/QA%20%2F%20Testing-1a1a2e?style=for-the-badge&logo=testinglibrary&logoColor=e33332" />
   </p>
 
   <!-- ===================== SELETOR DE IDIOMA ===================== -->
@@ -62,6 +62,12 @@ I'm a **Financial Analyst** and **Information Systems student**. I use technolog
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**QA & Testing** — manual and automated QA testing on software projects
+<p>
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maestro-7C4DFF?style=for-the-badge&logo=maestro&logoColor=white" />
 </p>
 
 ### 🚀 Featured Projects
@@ -134,6 +140,12 @@ Sou **Analista Financeira** e **estudante de Sistemas de Informação**. Utilizo
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**QA & Testes** — testes de QA manuais e automatizados em projetos de software
+<p>
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maestro-7C4DFF?style=for-the-badge&logo=maestro&logoColor=white" />
 </p>
 
 ### 🚀 Projetos em Destaque

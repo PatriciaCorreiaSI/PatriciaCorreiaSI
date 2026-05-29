@@ -8,7 +8,7 @@
     
 <img align="right" src="./assets/capa.png" alt="Patricia" width="35%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F9DFF&vCenter=true&width=460&lines=Hi%2C+I'm+Patricia+Correia+%F0%9F%91%8B;Financial+Analyst+%26+IS+Student;Data%2C+Automation+%26+Web+Development;Ol%C3%A1%2C+eu+sou+Patricia+Correia+%F0%9F%91%8B;Analista+Financeira+%26+estudando+SI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F9DFF&vCenter=true&width=460&lines=Hi%2C+I'm+Patricia+Correia+%F0%9F%91%8B;Financial+Analyst+%26+IS+Student;Data%2C+Automation+%26+Web+Development;Ol%C3%A1%2C+eu+sou+Patricia+Correia+%F0%9F%91%8B;Analista+Financeira+graduando+SI" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Financial%20Analyst-1a1a2e?style=for-the-badge&logo=bookstack&logoColor=4F9DFF" />

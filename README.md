@@ -33,7 +33,7 @@
 
 ### 👩‍💻 About me
 
-I'm a **Financial Analyst** and **Information Systems student**. I use technology and data intelligence to optimize processes, automate workflows, and support strategic decisions. I currently combine my analytical background with modern web development and QA testing.
+I'm a **Financial Analyst** and **Information Systems Undergrad**. I use technology and data intelligence to optimize processes, automate workflows, and support strategic decisions. I currently combine my analytical background with modern web development and QA testing.
 
 - 📊 Data intelligence applied to financial processes
 - 🤖 Workflow automation and AI integrations
@@ -111,7 +111,7 @@ I'm a **Financial Analyst** and **Information Systems student**. I use technolog
 
 ### 👩‍💻 Sobre mim
 
-Sou **Analista Financeira** e **estudante de Sistemas de Informação**. Utilizo a tecnologia e a inteligência de dados para otimizar processos, automatizar fluxos de trabalho e apoiar decisões estratégicas. Atualmente, concilio minha experiência analítica com o desenvolvimento de aplicações web modernas e testes de QA.
+Sou **Analista Financeira** e **Graduanda em Sistemas de Informação**. Utilizo a tecnologia e a inteligência de dados para otimizar processos, automatizar fluxos de trabalho e apoiar decisões estratégicas. Atualmente, concilio minha experiência analítica com o desenvolvimento de aplicações web modernas e testes de QA.
 
 - 📊 Inteligência de dados aplicada a processos financeiros
 - 🤖 Automação de fluxos de trabalho e integrações com IA

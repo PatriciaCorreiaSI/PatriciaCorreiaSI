@@ -4,24 +4,26 @@
      Tema: Dark / Moderno
      ========================================================= -->
 
-<!-- ===================== HEADER / BANNER ===================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F9DFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Patricia+Correia+%F0%9F%91%8B;Financial+Analyst+%26+IS+Student;Data%2C+Automation+%26+Web+Development;Ol%C3%A1%2C+eu+sou+a+Patricia+Correia+%F0%9F%91%8B;Analista+Financeira+%26+Estudante+de+SI" alt="Typing SVG" />
-
-  <p>
-    <img src="https://img.shields.io/badge/Financial%20Analyst-1a1a2e?style=for-the-badge&logo=bookstack&logoColor=4F9DFF" />
-    <img src="https://img.shields.io/badge/Data%20%26%20BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-    <img src="https://img.shields.io/badge/Web%20Dev-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-     <img src="https://img.shields.io/badge/QA%20%2F%20Testing-1a1a2e?style=for-the-badge&logo=testinglibrary&logoColor=e33332" />
-  </p>
-
-  <!-- ===================== SELETOR DE IDIOMA ===================== -->
-  <p>
-    <a href="#-english">🇺🇸 English</a>
-    &nbsp;•&nbsp;
-    <a href="#-português">🇧🇷 Português</a>
-  </p>
-</div>
+<!-- ===================== HEADER ===================== -->
+<table>
+  <tr>
+    <!-- Coluna esquerda: textos e badges -->
+    <td valign="middle" width="60%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4F9DFF&vCenter=true&width=480&lines=Hi%2C+I'm+Patricia+Correia+%F0%9F%91%8B;Financial+Analyst+%26+IS+Student;Data%2C+Automation+%26+Web+Development;Ol%C3%A1%2C+eu+sou+Patricia+Correia+%F0%9F%91%8B;Analista+Financeira+%26+Estudante+de+SI" alt="Typing SVG" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Financial%20Analyst-1a1a2e?style=for-the-badge&logo=bookstack&logoColor=4F9DFF" />
+      <img src="https://img.shields.io/badge/Data%20%26%20BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Web%20Dev-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/QA%20%2F%20Testing-1a1a2e?style=for-the-badge&logo=testinglibrary&logoColor=e33332" />
+      <br/><br/>
+      <a href="#-english">🇺🇸 English</a> &nbsp;•&nbsp; <a href="#-português">🇧🇷 Português</a>
+    </td>
+    <!-- Coluna direita: imagem -->
+    <td valign="middle" width="40%" align="right">
+      <img src="./assets/capa.png" alt="Patricia" width="320" />
+    </td>
+  </tr>
+</table>
 
 ---
 

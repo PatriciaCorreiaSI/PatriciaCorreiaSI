@@ -55,6 +55,11 @@ I'm a **Financial Analyst** and **Information Systems Undergrad**. I use technol
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
+**DevOps & Infrastructure:**
+<p>
+  <img src="https://img.shields.io/badge/Docker-0876AB?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 **Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -131,6 +136,11 @@ Sou **Analista Financeira** e **Graduanda em Sistemas de Informação**. Utilizo
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+**DevOps & Infraestrutura:**
+<p>
+  <img src="https://img.shields.io/badge/Docker-0876AB?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 **Frontend**

@@ -71,8 +71,7 @@ I'm a **Financial Analyst** and **Information Systems Undergrad**. I use technol
 
 **QA & Testing** — manual and automated QA testing on software projects
 <p>
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maestro-7C4DFF?style=for-the-badge&logo=maestro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-009685?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 ### 🚀 Featured Projects
@@ -154,8 +153,7 @@ Sou **Analista Financeira** e **Graduanda em Sistemas de Informação**. Utilizo
 
 **QA & Testes** — testes de QA manuais e automatizados em projetos de software
 <p>
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maestro-7C4DFF?style=for-the-badge&logo=maestro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-009685?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 ### 🚀 Projetos em Destaque

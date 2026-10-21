@@ -76,6 +76,10 @@ I'm a **Financial Analyst** and **Information Systems Undergrad**. I use technol
 
 ### 🚀 Featured Projects
 
+**[Reservare](https://github.com/PatriciaCorreiaSI/sistema-reservare)**
+> Shared-resource booking system (rooms, equipment, workstations) where overlapping bookings are prevented by the database itself, even under concurrent requests. Includes JWT authentication, architecture decision records (ADRs), and automated tests in CI.
+> **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind CSS · Docker · GitHub Actions · Playwright
+
 **[Controle_Ponto_do_Dia](https://github.com/PatriciaCorreiaSI/Controle_Ponto_do_Dia)**
 > Application for tracking and calculating work-hour balances, history, and database integration.
 > **Stack:** Python · SQLite · FastAPI · React
@@ -157,6 +161,10 @@ Sou **Analista Financeira** e **Graduanda em Sistemas de Informação**. Utilizo
 </p>
 
 ### 🚀 Projetos em Destaque
+
+**[Reservare](https://github.com/PatriciaCorreiaSI/sistema-reservare)**
+> Sistema de reserva de recursos compartilhados (salas, equipamentos, estações) em que o próprio banco de dados impede reservas sobrepostas, mesmo com pedidos simultâneos. Inclui autenticação JWT, registros de decisão de arquitetura (ADRs) e testes automatizados no CI.
+> **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind CSS · Docker · GitHub Actions · Playwright
 
 **[Controle_Ponto_do_Dia](https://github.com/PatriciaCorreiaSI/Controle_Ponto_do_Dia)**
 > Aplicação para controle e cálculo de saldo de horas, histórico e integração com banco de dados.

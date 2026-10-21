@@ -80,9 +80,16 @@ I'm a **Financial Analyst** and **Information Systems Undergrad**. I use technol
 > Shared-resource booking system (rooms, equipment, workstations) where overlapping bookings are prevented by the database itself, even under concurrent requests. Includes JWT authentication, architecture decision records (ADRs), and automated tests in CI.
 > **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind CSS · Docker · GitHub Actions · Playwright
 
-**[Controle_Ponto_do_Dia](https://github.com/PatriciaCorreiaSI/Controle_Ponto_do_Dia)**
-> Application for tracking and calculating work-hour balances, history, and database integration.
-> **Stack:** Python · SQLite · FastAPI · React
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/login-escuro.png">
+    <img src="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/login-claro.png" width="640" alt="Reservare: tela de entrada com o título “Salas, equipamentos e estações, sem conflito de horário” e o formulário de login">
+  </picture>
+</p>
+
+**[Controle Ponto do Dia](https://github.com/PatriciaCorreiaSI/controle-ponto-dia)**
+> Time-tracking app that records daily clock-in and clock-out, calculates each day's balance against an 8-hour workday, and keeps an accumulated hour bank per user. Includes JWT authentication and a React dashboard.
+> **Stack:** Python · FastAPI · SQLite · SQLAlchemy · React · Vite
 
 **[Bootcamp_Dio_Totvs_Python_ETL](https://github.com/PatriciaCorreiaSI/Bootcamp_Dio_Totvs_Python_ETL)**
 > ETL project for extracting and transforming banking customer data using AI agents.
@@ -166,9 +173,16 @@ Sou **Analista Financeira** e **Graduanda em Sistemas de Informação**. Utilizo
 > Sistema de reserva de recursos compartilhados (salas, equipamentos, estações) em que o próprio banco de dados impede reservas sobrepostas, mesmo com pedidos simultâneos. Inclui autenticação JWT, registros de decisão de arquitetura (ADRs) e testes automatizados no CI.
 > **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind CSS · Docker · GitHub Actions · Playwright
 
-**[Controle_Ponto_do_Dia](https://github.com/PatriciaCorreiaSI/Controle_Ponto_do_Dia)**
-> Aplicação para controle e cálculo de saldo de horas, histórico e integração com banco de dados.
-> **Stack:** Python · SQLite · FastAPI · React
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/login-escuro.png">
+    <img src="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/login-claro.png" width="640" alt="Reservare: tela de entrada com o título “Salas, equipamentos e estações, sem conflito de horário” e o formulário de login">
+  </picture>
+</p>
+
+**[Controle Ponto do Dia](https://github.com/PatriciaCorreiaSI/controle-ponto-dia)**
+> Aplicação de controle de ponto que registra entrada e saída do dia, calcula o saldo diário sobre uma jornada de 8 horas e mantém o banco de horas acumulado de cada usuário. Inclui autenticação JWT e um painel em React.
+> **Stack:** Python · FastAPI · SQLite · SQLAlchemy · React · Vite
 
 **[Bootcamp_Dio_Totvs_Python_ETL](https://github.com/PatriciaCorreiaSI/Bootcamp_Dio_Totvs_Python_ETL)**
 > Projeto de ETL para extração e transformação de dados de clientes bancários com uso de agentes de IA.

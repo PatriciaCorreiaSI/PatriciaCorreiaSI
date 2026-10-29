@@ -81,10 +81,7 @@ I'm a **Financial Analyst** and **Information Systems Undergrad**. I use technol
 > **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind CSS · Docker · GitHub Actions · Playwright
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/login-escuro.png">
-    <img src="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/login-claro.png" width="640" alt="Reservare: tela de entrada com o título “Salas, equipamentos e estações, sem conflito de horário” e o formulário de login">
-  </picture>
+  <img src="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/corrida.gif" width="640" alt="Reservare: Ana and Bruno, side by side, confirm the same time slot in the same room almost at once. Ana's screen shows the booking was made; Bruno's explains that the slot was just taken by someone else.">
 </p>
 
 **[Controle Ponto do Dia](https://github.com/PatriciaCorreiaSI/controle-ponto-dia)**
@@ -174,11 +171,9 @@ Sou **Analista Financeira** e **Graduanda em Sistemas de Informação**. Utilizo
 > **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Tailwind CSS · Docker · GitHub Actions · Playwright
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/login-escuro.png">
-    <img src="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/login-claro.png" width="640" alt="Reservare: tela de entrada com o título “Salas, equipamentos e estações, sem conflito de horário” e o formulário de login">
-  </picture>
+  <img src="https://raw.githubusercontent.com/PatriciaCorreiaSI/sistema-reservare/main/docs/telas/corrida.gif" width="640" alt="Reservare: Ana e Bruno, lado a lado, confirmam quase juntos o mesmo horário na mesma sala. A tela da Ana mostra a reserva feita; a do Bruno explica que o horário acabou de ser reservado por outra pessoa.">
 </p>
+
 
 **[Controle Ponto do Dia](https://github.com/PatriciaCorreiaSI/controle-ponto-dia)**
 > Aplicação de controle de ponto que registra entrada e saída do dia, calcula o saldo diário sobre uma jornada de 8 horas e mantém o banco de horas acumulado de cada usuário. Inclui autenticação JWT e um painel em React.
